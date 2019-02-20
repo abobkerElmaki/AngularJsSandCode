@@ -1,2 +1,0 @@
-# AngularJsSandCode
-Created with CodeSandbox
